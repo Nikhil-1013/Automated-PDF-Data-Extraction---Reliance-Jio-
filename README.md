@@ -6,7 +6,7 @@ Developed a PDF data extraction tool to extract specific information from thousa
 
 **Key Contributions**
 
-- Collaborated closely with Reliance Jio to understand project requirements and objectives.
+- Collaborated closely with team to understand project requirements and objectives.
 - Utilized Python's pypdf library to extract targeted data from PDF files, including company names, license numbers, issuance dates, and expiration dates.
 - Implemented robust logic to identify and extract relevant information accurately from each PDF document.
 - Developed an executable file for easy deployment across various devices, enabling seamless automation of the extraction process for the client's team.
